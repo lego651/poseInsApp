@@ -46,7 +46,7 @@ I know, I know… We should start with an MVP(minimum viable product). Don’t e
 <img src="https://cdn-images-1.medium.com/max/2000/1*0EtHdacciI7JsxT9F2DU8w.png" width="100%">
 
 3.My girlfriend likes the feeling of first picture. So we pick the first picture, and this App takes it as a template/demo picture.
-<img src="https://cdn-images-1.medium.com/max/1600/1*-p0nvYw7WOw8BVENqCDlpg.png" width="100%">
+<img src="https://cdn-images-1.medium.com/max/1600/1*-p0nvYw7WOw8BVENqCDlpg.png" width="50%">
 
 4.I just need to follow this template/demo and take a similar high quality picture:
 <img src="https://cdn-images-1.medium.com/max/1600/1*Eo_Gt_ej-CFBmY6og3rIOg.jpeg" width="100%">
