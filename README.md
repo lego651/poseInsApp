@@ -1,10 +1,10 @@
-<!---Logo--->
+# Journal of learning and building an AI powered App
 <h1 align="center">
-      <br><a href="http://yuzhoujr.com"><img src="http://yuzhoujr.com/legacy/image/logo.jpg" alt="yuzhoujr" width="200"></a>
+      <br><a href="https://medium.com/@jasonusca/journal-of-learning-and-building-an-ai-powered-app-22daf293a162"><img src="https://cdn-images-1.medium.com/max/1600/1*q-kGovMdt4Euq4eiJDKxKQ.png"  width="200"></a>
 </h1>
 
-# Journal of learning and building an AI powered App
-> We are building an AI powered App that turns anybody into an excellent photographer immediately.
+
+> We(team up with my girlfriend) are building an AI powered App that turns anybody into an excellent photographer immediately.
 
 ## RoadMap
 * [Part1: Define problem & solution and do market research](www.google.com)
